@@ -1,15 +1,24 @@
 {
     "name": "anchu/ftp",
     "description": "A simple Laravel 7 ftp service provider",
-    "keywords": ["ftp", "laravel", "l5", "l6","l7", "service provider"],
+    "keywords": [
+        "ftp",
+        "laravel",
+        "l5",
+        "l6",
+        "l7",
+        "service provider"
+    ],
     "license": "MIT",
-    "authors": [{
-        "name": "Harish Anchu",
-        "email": "harishanchu@gmail.com"
-    }],
+    "authors": [
+        {
+            "name": "Harish Anchu",
+            "email": "harishanchu@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "^5.0|^6.0|^7.0"
+        "illuminate/support": "^5.0|^6.0|^7.0|^8.0"
     },
     "autoload": {
         "psr-0": {
